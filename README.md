@@ -8,12 +8,18 @@ I'm a Ph.D student at Politecnico di Milano where I work on Recommender Systems 
 
 I'm also interested on producing high quality research and products 🚀. I worked for almost two years in industry as Software Engineer and I try to apply the things I learned on my daily work.
 
+## 🤓 Important repositories
+Currently most of the code here on GitHub is related to University project, but soon I'll start publishing my research code and personal projects.
+
+In the meantime, you can have a look on the following repos:
+- My undergrad thesis: [🔗](https://github.com/fernandobperezm/recsys-cotraining).
+
 ## 👯 I’m looking to collaborate on
 Open source projects and applied Machine Learning.
 
 ## 📫 How to reach me
 
-For academic/research inquiries just send an email to [my PoliMi email](mailto:fernandobenjamin.perez@polimi.it) for any other contribution or just to talk send an email [to my personal account](mailto:fperezmaurera@gmail.com).
+For academic/research inquiries just send an email to [my PoliMi email](mailto:fernandobenjamin.perez@polimi.it). For any other contribution or just to talk send an email [to my personal account](mailto:fperezmaurera@gmail.com).
 
 ## ⚡ Fun facts
 - I played drums for almost 8 years 🥁 I did not become proficient at it, but it was something that I really enjoyed.
