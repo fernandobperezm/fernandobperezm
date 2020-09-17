@@ -12,7 +12,7 @@ I'm also interested on producing high quality research and products 🚀. I work
 Currently most of the code here on GitHub is related to University project, but soon I'll start publishing my research code and personal projects.
 
 In the meantime, you can have a look on the following repos:
-- (🔥 Just Released 🔥) ContentWise Impressions: An industrial dataset with impressions included [🔗](https://github.com/ContentWise/contentwise-impressions)
+- (🔥 Newest Article 🔥) ContentWise Impressions: An industrial dataset with impressions included [🔗](https://github.com/ContentWise/contentwise-impressions). Accepted into CIKM 2020.
 - My undergrad thesis [🔗](https://github.com/fernandobperezm/recsys-cotraining).
 
 ## 👯 I’m looking to collaborate on
