@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my personal site.
+Welcome to my personal site. My socials are: [LinkedIn](https://www.linkedin.com/in/fernandobperezm), [X/Twitter](https://twitter.com/FernandoBPerezM)
 
 ## Who am I?
 
