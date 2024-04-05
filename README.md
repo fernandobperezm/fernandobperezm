@@ -5,9 +5,8 @@ Welcome to my personal site. My socials are: [LinkedIn](https://www.linkedin.com
 ## Who am I?
 
 I'm a Ph.D candidate at Politecnico di Milano where I study Recommender Systems (check out [the lab's page](http://recsys.deib.polimi.it)), their application on industrial environments, online evaluation, experimentation of UI personalization, and more. 
-Ultimately, I've been researching impression-aware recommender systems, where I focus on their characterization, evaluation, and replication.
-I'm interested on producing high quality research. 
-Generally, I apply to my research activities what I learnt from working two years as a Software Engineer in the industry.
+Ultimately, I've been researching impression-aware recommender systems, where I focus on their characterization, evaluation, and experimentation.
+I'm interested on producing high quality research, applying what I learnt from working as a Software Engineer in the industry.
 
 ## Research
 The complete list of my publications can be seen on [my Google Scholar profile](https://scholar.google.com/citations?user=Zfi0rrgAAAAJ).
