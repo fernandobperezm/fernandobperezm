@@ -1,13 +1,17 @@
 # Hi there 👋
 
-Welcome to my personal site. 
+Welcome to my personal site. I'm Fernando Pérez, a researcher and computer engineer with experience in Artificial Intelligence, Machine Learning, and Software Engineering. 
 
 ## Who am I?
 
-I'm Fernando Pérez, a researcher and computer engineer, enthusiast on Artificial Intelligence and Machine Learning. I obtained my Ph.D. in Information Technology at Politecnico di Milano, where I studied Recommender Systems (check out [the lab's page](http://recsys.deib.polimi.it)), their application on industrial environments, online evaluation, experimentation of UI personalization, and more. 
+I obtained my Ph.D. in Information Technology at Politecnico di Milano, where I studied Recommender Systems (check out [the lab's page](http://recsys.deib.polimi.it)), their application on industrial environments, online evaluation, experimentation of UI personalization, and more. 
 Ultimately, I've been investigating Impression-Aware Recommender Systems, a novel family of recommenders that leverage impressions (past recommendations) and interactions (users' actions) to produce relevant recommendations. 
 During my doctoral time, I focused on the characterization, evaluation, and experimentation of this family of recommenders.
 I'm interested in producing high-quality research and applying what I learned as a Software Engineer in the industry.
+
+## Academic titles
+- **Ph.D. in Information Technology** from Politecnico di Milano. December 2019 - May 2024.
+- **Cum Laude Computer Engineering** from Universidad Simón Bolívar. September 2012 - December 2018.
 
 ## Research
 The complete list of my publications can be seen on [my Google Scholar profile](https://scholar.google.com/citations?user=Zfi0rrgAAAAJ).
