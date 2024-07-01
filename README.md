@@ -1,16 +1,17 @@
 # Hi there 👋
 
-Welcome to my personal site. My socials are: [LinkedIn](https://www.linkedin.com/in/fernandobperezm), [X/Twitter](https://twitter.com/FernandoBPerezM)
+Welcome to my personal site. 
 
 ## Who am I?
 
-I'm a Ph.D candidate at Politecnico di Milano where I study Recommender Systems (check out [the lab's page](http://recsys.deib.polimi.it)), their application on industrial environments, online evaluation, experimentation of UI personalization, and more. 
-Ultimately, I've been researching impression-aware recommender systems, where I focus on their characterization, evaluation, and experimentation.
-I'm interested on producing high quality research, applying what I learnt from working as a Software Engineer in the industry.
+I obtained my Ph.D. in Information Technology at Politecnico di Milano, where I studied Recommender Systems (check out [the lab's page](http://recsys.deib.polimi.it)), their application on industrial environments, online evaluation, experimentation of UI personalization, and more. 
+Ultimately, I've been researching Impression-Aware Recommender Systems, a novel family of recommenders that leverage impressions (past recommendations) and interactions (users' actions) to produce relevant recommendations. 
+During my doctoral time, I focused on the characterization, evaluation, and experimentation of this family of recommenders.
+I'm interested in producing high-quality research and applying what I learned from working as a Software Engineer in the industry.
 
 ## Research
 The complete list of my publications can be seen on [my Google Scholar profile](https://scholar.google.com/citations?user=Zfi0rrgAAAAJ).
-Here I list the three most relevant publications.
+Here, I list the three most relevant publications.
 
 - Impression-Aware Recommender Systems. Under revision.
   Fernando  B. Pérez Maurera, Maurizio Ferrari Dacrema, Pablo Castells, Paolo Cremonesi.
@@ -28,4 +29,4 @@ Here I list the three most relevant publications.
 ## How to reach me
 
 For academic/research inquiries, send an email to [my institutional email](mailto:fernandobenjamin.perez@polimi.it). 
-For any other contribution, send an email [to my personal address](mailto:fperezmaurera@gmail.com).
+For any other contribution, send an email [to my personal address](mailto:fperezmaurera@gmail.com). My handles on social networks are: [fernandobperezm on LinkedIn](https://www.linkedin.com/in/fernandobperezm), and [@fernandobperezm on X/Twitter](https://twitter.com/FernandoBPerezM).
