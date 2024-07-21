@@ -1,18 +1,18 @@
-# Hi there 👋
+# Hello there 👋
 
-Welcome to my personal site. I'm Fernando Pérez, a researcher and computer engineer with experience in Artificial Intelligence, Machine Learning, and Software Engineering. 
+Welcome to my personal site. I'm Fernando B. Pérez Maurera, a scientist and engineer experienced in the development and deployment of Artificial Intelligence, Machine Learning, and Software Engineering products. 
 
 ## Experience
 
-In the past five years, I've been a **ML and Recommender Systems Researcher** at Politecnico di Milano, where I mainly studied Recommender Systems (check out [the lab's page](http://recsys.deib.polimi.it)), their application on industrial environments, online evaluation, experimentation of UI personalization, and more. My works have focused on constructing and experimenting with "Impression-Aware Recommender Systems", a novel family of recommenders that leverage impressions (past recommendations) and interactions (users' actions) to produce relevant recommendations. 
+In the past five years, I've been a **ML and Recommender Systems Scientist** at Politecnico di Milano, where I mainly studied Recommender Systems and their development and application on industrial environments. My works focused on designing and experimenting with "Impression-Aware Recommender Systems", a new family of recommenders that leverage impressions (past recommendations) and interactions (users' actions) to produce relevant recommendations. 
 
-Two years before becoming a researcher, I was a **Software Engineer** at Mahisoft, an IT consulting company. As a Software Engineer, I worked on multiple agile teams in the entire development stack, capturing requirements and transforming them into production-grade large-scale systems. As a team, we used the latest yet well-tested technologies. We developed frontends using React.js and typescript and backends using .NET alongside SQL Server, or Spring Boot alongside MySQL.
+Prior to becoming a scientist, I was a **Software Engineer** at Mahisoft, an IT consulting company. As a Software Engineer, I worked on multiple agile teams in the entire development stack, capturing requirements and transforming them into production-grade large-scale systems. As a team, we used the industry-standard yet well-tested technologies. We developed frontends using React.js and typescript and backends using .NET alongside SQL Server, or Spring Boot alongside MySQL.
 
-## Academic titles
+## Academic Titles
 - **Ph.D. in Information Technology** from Politecnico di Milano. December 2019 - May 2024.
 - **Cum Laude Computer Engineer** from Universidad Simón Bolívar. September 2012 - December 2018.
 
-## Research
+## Scientific Publications
 The complete list of my publications can be seen on [my Google Scholar profile](https://scholar.google.com/citations?user=Zfi0rrgAAAAJ).
 Here, I list the three most relevant publications.
 
