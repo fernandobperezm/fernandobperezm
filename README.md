@@ -2,7 +2,7 @@
 
 Welcome to my personal site. I'm Fernando B. Pérez Maurera, a scientist and engineer experienced in the development and deployment of Artificial Intelligence, Machine Learning, and Software Engineering products. 
 
-## Experience
+## Work Experience
 
 In the past five years, I've been a **ML and Recommender Systems Scientist** at Politecnico di Milano, where I mainly studied Recommender Systems and their development and application on industrial environments. My works focused on designing and experimenting with "Impression-Aware Recommender Systems", a new family of recommenders that leverage impressions (past recommendations) and interactions (users' actions) to produce relevant recommendations. 
 
